@@ -6,3 +6,5 @@ yfinance==0.2.18
 plotly==5.15.0
 textblob==0.17.1
 requests==2.31.0
+setuptools
+wheel
